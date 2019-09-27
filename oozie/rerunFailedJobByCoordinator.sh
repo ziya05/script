@@ -1,5 +1,13 @@
 #!/bin/bash
 
+#################################
+#
+# Author 子牙
+# Time 2019/09/27 
+# version 1.0
+#
+#################################
+
 oozieUrl=$1   		# oozie服务地址                                         http://oozieserver:11000/oozie
 cId=$2        		# coordinator的ID                                      cId=0002560-190709105745051-oozie-oozi-C
 
